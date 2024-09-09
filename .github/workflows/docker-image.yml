@@ -1,5 +1,5 @@
 name: Aqua
-on: pull_request
+on: push
 jobs:
   aqua:
     name: Aqua scanner
